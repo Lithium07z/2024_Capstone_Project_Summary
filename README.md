@@ -63,3 +63,6 @@ https://docs.google.com/document/d/1BAEMcZEcJGKjqXc_af8NVM5bzJ511atnGHqM2XjIjV4/
 
 ### 📕체크리스트
 https://docs.google.com/spreadsheets/d/1uNqniEBnpotCc84SxiJ90X7XiWGhtWhyKHHyGBtl0qs/edit?pli=1#gid=0
+
+### 📕발표 PPT
+https://docs.google.com/presentation/d/1tXY1y68FP2xSGEyhVK3pfW1PJ5UDFtoS/edit?usp=sharing&ouid=101721031939428316841&rtpof=true&sd=true
